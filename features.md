@@ -2,7 +2,7 @@
 
 ## PreMiDについて
 
-**PreMiD** はディスコードのプレイ中ステイタスをブラウザの中に見って聞いているメディアを統合できて、単純な設定可能のユティリティです。 It supports [many different](support/services.md) platforms, and will support multiple users watching the same content simultaneously in an upcoming update.
+**PreMiD** はディスコードのプレイ中ステイタスをブラウザの中に見って聞いているメディアを統合できて、単純な設定可能のユティリティです。 今はPreMiDは[色々な](support/services.md) サビースと使えられて、将来に複数の人が同じ動画を見て同じ音楽を聞けられます。
 
 
 ## Features
