@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Home](README.md)
+* [トップ](README.md)
 * [Features](features.md)
 * [Changelog](changelog.md)
 
