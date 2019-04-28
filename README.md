@@ -3,16 +3,15 @@
 ## 目次
 
 * About
-  * [What's RPC?](about/whats-rpc.md)
-  * [What's PreMiD?](about/whats-premid/)
+  * [RPCって何ですか?](about/whats-premid/)
     * [Example pictures](about/whats-premid/example-pictures.md)
 * Installation
-  * [Extension](installation/extension.md)
-  * [Application](installation/application.md)
+  * [エクステンション](installation/extension.md)
+  * [アプリケーション](installation/application.md)
 * [Contributing](contributing/contributing.md)
-* [Troubleshooting](troubleshooting/troubleshooting.md)
+* [トラブルシューティング](troubleshooting/troubleshooting.md)
 * Support
-  * [Operating systems](support/operating-systems/)
+  * [オペレーティング・システム](support/operating-systems/)
     * [Additional Browsers](support/operating-systems/additional-browsers.md)
-  * [Services](support/services.md)
+  * [サービス](support/services.md)
 
