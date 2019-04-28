@@ -1,6 +1,6 @@
 # Home
 
-## Table of contents
+## 目次
 
 * About
   * [What's RPC?](about/whats-rpc.md)
