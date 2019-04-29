@@ -1,4 +1,4 @@
-# جدول المحتويات
+# Table of contents
 
 * [الصفحة الرئيسية](README.md)
 * [المميزات](features.md)
