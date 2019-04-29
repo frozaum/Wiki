@@ -1,15 +1,15 @@
 # Erweiterung
 
 {% hint style="warning" %}
- Du musst die Browsererweiterung **und** das Programm installieren, damit es korrekt funktioniert!
+Du musst die Browsererweiterung **und** das Programm installieren, damit es korrekt funktioniert!
 {% endhint %}
 
-### Erweiterung
+## Erweiterung
 
 Installieren der Erweiterung ist der einfachste Teil! Du musst einfach nur auf den Namen deines Browser's klicken und der Anleitung folgen.
 
-{% tabs %}
-{% tab title="Firefox" %}
+
+
 {% hint style="info" %}
 Firefox hat unsere Erweiterung aus dem Store entfernt. Du brauchst dir deswegen aber keine Sorgen zu machen. Wir werden versuchen, es von den Toten wiederzubeleben, da wir planen, es im nächsten Update auf unsere eigenen Server hochzuladen! Jetzt kannst du entweder abwarten oder den Anweisungen unten folgen.
 {% endhint %}
@@ -22,20 +22,15 @@ Firefox hat unsere Erweiterung aus dem Store entfernt. Du brauchst dir deswegen 
 6. Wähle die kürzlich heruntergeladene Datei aus
 7. Akzeptiere die Installation, indem du auf "**Hinzufügen**" klickst
 8. Installiere das [Programm](application.md), falls du es noch nicht getan hast
-{% endtab %}
-
-{% tab title="Chrome" %}
-1. Gehe zum [Store](https://chrome.google.com/webstore/detail/premid/agjnjboanicjcpenljmaaigopkgdnihi?authuser=0&hl=en)
-2. Klicke auf **"Zu Chrome hinzufügen"**
-3. Installiere das [Programm](application.md), falls du es noch nicht getan hast
+9. Gehe zum [Store](https://chrome.google.com/webstore/detail/premid/agjnjboanicjcpenljmaaigopkgdnihi?authuser=0&hl=en)
+10. Klicke auf **"Zu Chrome hinzufügen"**
+11. Installiere das [Programm](application.md), falls du es noch nicht getan hast
 
 ![Chrome Web Store](../.gitbook/assets/add-to-chrome_edited.png)
-{% endtab %}
 
-{% tab title="Opera" %}
+
+
 1. Installiere die Erweiterung **"**[**Install Chrome Extensions**](https://addons.opera.com/en/extensions/details/install-chrome-extensions/)**"**
 2. Nun installiere die [PreMiD-Erweiterung](https://chrome.google.com/webstore/detail/premid/agjnjboanicjcpenljmaaigopkgdnihi)
 3. Installiere das [Programm](application.md), falls du es noch nicht getan hast
-{% endtab %}
-{% endtabs %}
 
