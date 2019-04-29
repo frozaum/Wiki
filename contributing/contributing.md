@@ -1,4 +1,4 @@
-# Contributing
+# 投稿すること
 
 ### Contribute as a user
 

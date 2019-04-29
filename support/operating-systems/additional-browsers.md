@@ -1,4 +1,4 @@
-# Additional Browsers
+# 他のブラウザ
 
 | Operating Systems | Opera | Chromium-based |
 | :---: | :---: | :---: |

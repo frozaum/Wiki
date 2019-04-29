@@ -1,4 +1,4 @@
-# Troubleshooting
+# トラブルシューティング
 
 ## **First of all**
 

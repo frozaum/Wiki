@@ -1,13 +1,12 @@
-# Example pictures
+# 実例
 
-#### Examples
+実例
 
-This is what you listen on YouTube:
+PreMiDが付いているYouTubeの動画を聞きながら…
 
 ![YouTube](../../.gitbook/assets/yt_example.PNG)
 
-  
-And this is what happens on your profile when PreMiD is running and able to get information from your browser: 
+Discordのプロファイルで見える
 
-![Discord RPC](../../.gitbook/assets/discord_rpc_example2.PNG)
+![Discord&#x30EA;&#x30C3;&#x30C1;&#x30D7;&#x30EC;&#x30BC;&#x30F3;&#x30B9;](../../.gitbook/assets/discord_rpc_example2.PNG)
 

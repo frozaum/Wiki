@@ -1,4 +1,4 @@
-# Operating systems
+# オペレーティング・システム
 
 | Operating Systems | App | Chrome | Firefox |
 | :---: | :---: | :---: | :---: |

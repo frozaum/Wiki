@@ -1,92 +1,93 @@
-# Changelog
+# 更新歴
 
-## 1.2.0.1-pre · 21-January-2019
+## 1.2.0.1-pre · 2019年1月21日
 
-### Removed
+### 取り除いた
 
-* Firefox removed our extension from the store ;\(
+* Firefoxのアドオンストアが取り除いされました　T\_T
 
-### How to install
+### インストールをする方
 
-*  Look up the updated instructions [here](installation/extension.md)
+* [こっち](installation/extension.md)でアップデートしたのインストールをする方を見えます
 
-## 1.2 · 2-November-2018
+## 1.2 · 2018年11月2日
 
-### Changes
+### 変更点
 
-* A lot of rewrites... Thats it for the app. Update needed!
-* A lot of bug fixes
-* App should now start 50% faster
+* 沢山の書き直す… アプリケーションで以上です。アップデート必要！
+* 色々なバグフィックス
+* アプリの起動は50％ぐらい早くなりそうでした
 
-## 1.1 · 16-Oktober-2018
+## 1.1 · 2018年10月16日
 
-### Added
+### 追加した
 
-* Netflix Support
-* Twitch Support
-* SoundCloud Support
+* Netflix統合
+* Twitch統合
+* SoundCloud統合
 
-### Changes
+### 変更点
 
-* Small rewrites in the presences
-* App should now start 30% faster
-* Lots of bug fixes
+* プレゼンスはちょっと書き直しました
+* アプリの起動が30％ぐらい早くなりました
+* 色々なバグフィックス
 
-## 1.0 · 7-Oktober-2018
+## 1.0 · 2018年10月7日
 
-### Added
+### 追加した
 
-* Media control support \(Play/pause, next track, previous track\)
-* YouTube Presence now disappears if playback is paused. \(after 1 minute\)
-* Preferences Panel
-* Update Notifications should now work on Windows
-* YouTube now shows how much time is left on a video
-* Update window
+* メディア・コントロール統合
+  * 再生、一時停止、次に飛ばす、前に飛ばす
+* 1分以上で一時停車をしたら、自動でYouTubeリッチプレゼンスがなくなります
+* 環境設定メニュー
+* Windowsでアップデート通報が見えるはずです
+* YouTube動画の残り時間がリッチプレゼンスで見えます
+* アップデートウィンドウ
 
-### Changes
+### 変更点
 
-* YouTube Music core rewritten completely
-* YouTube core rewritten completely
-* YouTube Music Presence now shows the last author like this:
+* YouTubeミュジックは基本的に変更しました
+* YouTubeは基本的に変更しました
+* YouTube ミュジックのリッチプレゼンスが最後の作者はこんな感じを見せます:
   * Timeraa, Timeraa and Timeraa
-* YouTube Music Presence is now faster in detecting changes
-* Reduced Discord API calls
-* YouTube Presence should now start 50% faster
+* YouTubeミュジックのリッチプレゼンスが変わる歌とかの検出はもっと早くなりました
+* DiscordのAPIコールが少なくなりました
+* YouTubeのリッチプレゼンスは50％ぐらい早くなりそうでした
 
-## 0.3-Alpha · 25-July-2018
+## 0.3-Alpha · 2018年7月25日
 
-### Added
+### 追加した
 
-* Added an option to enable/disable title in menubar \(Mac OS\)
-* Installer \(Mac OS only atm, sorry Windows users :I\)
+* タイトルバーの動作状態を追加しました \(Mac OS\)
+* インストーラ　\(今はMacOSだけです。残念だけどWindowsのユーザーがまだ使えません\)
 
-### Changes
+### 変更点
 
-* Speed improvements
-* Code organisation
-* Changed message when Chrome connected \(Mac OS\)
+* 早くなりまひた
+* コーディングは整理しました
+* Chrome接続したの通報を変わりました　\(Mac OS\)
 
-## 0.2-Alpha · 10-July-2018
+## 0.2-Alpha · 2018年7月10日
 
-### Added
+### 追加した
 
-* Support for YouTube
+* YouTube統合
 
-### Changes
+### 変更点
 
-* Organisation of code
-* Speed improvements
-* Extension improvements
+* コーディングは整理しました
+* 早くなりました
+* エクステンション加筆
 
-## 0.1-Alpha · 7-July-2018
+## 0.1-Alpha · 2018年7月7日
 
-### Added
+### 追加した
 
-* Support for YouTube Music
-* Update Notification \(Mac OS only atm\)
-* Option to turn it off \(See menubar/tab bar\)
-* Automatically starts on system boot \(Can only be disabled through Settings/Taskmanager atm\)
-* Automatically clears Presence if Chrome/YouTube not found
+* YouTubeミュジック統合
+* アップデート通報　\(今はMac OSだけです\)
+* オフにする設定　\(メニューバーに御覧ください\)
+* PCにオンにする自動起動　\(今はタスクマネージャーとシステム設定にオフに出来ます）
+* アプリケションはChromeかYouTubeを見つけない時に自動でリッチプレゼンスがなくなります
 
 
 

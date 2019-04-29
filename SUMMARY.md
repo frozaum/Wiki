@@ -1,31 +1,31 @@
 # Table of contents
 
 * [トップ](README.md)
-* [Features](features.md)
-* [Changelog](changelog.md)
+* [開発経験](features.md)
+* [更新歴](changelog.md)
 
-## About
+## PreMiDについて
 
-* [What's RPC?](about/whats-rpc.md)
-* [What's PreMiD?](about/whats-premid/README.md)
-  * [Example pictures](about/whats-premid/example-pictures.md)
+* [RPCって何ですか?](about/whats-rpc.md)
+* [PreMiDって何ですか?](about/whats-premid/README.md)
+  * [実例](about/whats-premid/example-pictures.md)
 
-## Installation
+## インストール
 
-* [Extension](installation/extension.md)
-* [Application](installation/application.md)
+* [エクステンション](installation/extension.md)
+* [アプリケーション](installation/application.md)
 
-## Contributing
+## 投稿
 
-* [Contributing](contributing/contributing.md)
+* [投稿すること](contributing/contributing.md)
 
-## Troubleshooting
+## トラブルシューティング
 
-* [Troubleshooting](troubleshooting/troubleshooting.md)
+* [トラブルシューティング](troubleshooting/troubleshooting.md)
 
-## Support
+## サポート
 
-* [Operating systems](support/operating-systems/README.md)
-  * [Additional Browsers](support/operating-systems/additional-browsers.md)
-* [Services](support/services.md)
+* [オペレーティング・システム](support/operating-systems/README.md)
+  * [他のブラウザ](support/operating-systems/additional-browsers.md)
+* [サービス](support/services.md)
 

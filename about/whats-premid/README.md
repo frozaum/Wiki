@@ -1,6 +1,6 @@
-# What's PreMiD?
+# PreMiDって何ですか?
 
-#### What is PreMiD?
+#### PreMiDって何ですか？
 
 {% page-ref page="../../features.md" %}
 
