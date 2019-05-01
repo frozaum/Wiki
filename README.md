@@ -13,6 +13,6 @@
 * [Riešenie Problémov](troubleshooting/troubleshooting.md)
 * Podpora
   * [Operačné systémy](support/operating-systems/)
-    * [Additional Browsers](support/operating-systems/additional-browsers.md)
+    * [Dodatočné Prehliadače](support/operating-systems/additional-browsers.md)
   * [Služby](support/services.md)
 
