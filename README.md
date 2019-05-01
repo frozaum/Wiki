@@ -1,18 +1,18 @@
-# Home
+# Domov
 
-## Table of contents
+## Stôl kontentu
 
-* About
-  * [What's RPC?](about/whats-rpc.md)
-  * [What's PreMiD?](about/whats-premid/)
+* Ohľadne
+  * [Čo je to RPC?](about/whats-rpc.md)
+  * [Čo je to PreMiD](about/whats-premid/)
     * [Example pictures](about/whats-premid/example-pictures.md)
-* Installation
-  * [Extension](installation/extension.md)
-  * [Application](installation/application.md)
-* [Contributing](contributing/contributing.md)
-* [Troubleshooting](troubleshooting/troubleshooting.md)
-* Support
-  * [Operating systems](support/operating-systems/)
+* Inštalácia
+  * [Rozšírenie](installation/extension.md)
+  * [Aplikácia](installation/application.md)
+* [Prispetie](contributing/contributing.md)
+* [Riešenie Problémov](troubleshooting/troubleshooting.md)
+* Podpora
+  * [Operačné systémy](support/operating-systems/)
     * [Additional Browsers](support/operating-systems/additional-browsers.md)
-  * [Services](support/services.md)
+  * [Služby](support/services.md)
 
