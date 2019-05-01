@@ -1,8 +1,8 @@
-# What's RPC?
+# Čo je to RPC?
 
-#### What is RPC and how does it work?
+#### Čo je to RPC a ako to funguje?
 
-Rich Presence is one of the coolest features of Discord at this moment and it basically changes the look and style of your "now playing" area on your Discord profile. Discord's RPC supported games \(such as GTA V™, Rainbow Six® Siege etc.\) are broadcasting your in-game status to your Discord profile in a really cool way. They basically use their app to send your game status to Discord which renders the information as a Rich Presence on your profile. Finally, they become the way in the picture below.
+Bohatá Prítomnosť (Rich Presence) je jeden z najkoolovejších vlastností Discordu v tomto momente a v podstate mení pohľad a štýl vášho "teraz hrá" na vašom Discord profile. Discord podporuje RPC hry \(ako napríklad GTA V™, Rainbow Six® Siege atď.\) a vysiela váš v-hre status na vás Discord profil vo naozaj koolovom spôsobe. V podstate použijú svoju aplikáciu na posielanie vášho hravého statusu do Discordu ktorý potom vykreslí tie informácie ako bohatú prítomnosť na vašom profile. A na koniec, vzniknú v spôsobe pod obrázkom.
 
 ![Spotify RPC](../.gitbook/assets/spotify_rpc_example.PNG)
 
