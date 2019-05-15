@@ -17,7 +17,8 @@
 
 ## Contributing
 
-* [Contributing](contributing/contributing.md)
+* [Contributing](contributing/contributing/README.md)
+  * [Localization](contributing/contributing/localization.md)
 
 ## Troubleshooting
 

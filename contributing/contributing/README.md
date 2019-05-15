@@ -35,5 +35,5 @@ Last date we accepted moderators into our team: 12/24/2018"
 
 ### ~~Contribute as a administrator~~
 
-"_You can't_
+_You can't_
 
