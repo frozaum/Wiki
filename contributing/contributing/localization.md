@@ -12,7 +12,7 @@ These languages already added in the application/extension, but may need some im
 | :-------------: | :-------------------------------------------------------------------------------: |
 |     Arabic      |  <img draggable="false" alt="error" src="https://api.premid.app/langStatus/ar">   |
 |     Bosnian     |  <img draggable="false" alt="error" src="https://api.premid.app/langStatus/bs">   |
-|     Chinese     | <img draggable="false" alt="error" src="https://api.premid.app/langStatus/zh_CN"> |
+|     Chinese     | <img draggable="false" alt="error" src="https://api.premid.app/langStatus/zh-CN"> |
 |     Danish      |  <img draggable="false" alt="error" src="https://api.premid.app/langStatus/da">   |
 |      Dutch      |  <img draggable="false" alt="error" src="https://api.premid.app/langStatus/nl">   |
 |     English     |  <img draggable="false" alt="error" src="https://api.premid.app/langStatus/en">   |
