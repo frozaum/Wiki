@@ -4,7 +4,7 @@ We are partnered with POEditor, so all translations will be made in it.
 
 ## Supported languages
 
-These languages already added in the application/extension, but may need some improvements.
+These languages have already been added in the application/extension, but may need some improvements.
 
 | Language | Percentage |
 | :---: | :---: |
@@ -39,7 +39,7 @@ These languages already added in the application/extension, but may need some im
 ## How to start?
 
 1. Join our [Discord server](https://discord.premid.app).
-2. Got to our [contributing page](./).
+2. Go to our [contributing page](./).
 3. Click on the link given and register a new account.
 4. Mention a PoEditor administrator in our Discord server.
 5. All translation instructions will be sent to you in near future.
