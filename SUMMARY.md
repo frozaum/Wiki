@@ -10,7 +10,7 @@
 * [PreMiD Nedir?](hakkinda/premid-nedir/README.md)
   * [Örnek Resimler](hakkinda/premid-nedir/ornek-resimler.md)
 
-## Yükleme
+## Yükleme <a id="yukleme"></a>
 
 * [Eklenti](yukleme/eklenti.md)
 * [Uygulama](yukleme/uygulama.md)
