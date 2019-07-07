@@ -1,7 +1,7 @@
 # Services
 
 {% hint style="info" %}
-Möchtest du die Unterstützung für einen Anbieter anfordern? Eröffne eine [Frage](https://github.com/Timeraa/PreMiD/issues/new?template=service_request.md)!
+Möchtest du die Unterstützung für einen Anbieter anfordern? Eröffne eine [Frage](https://github.com/PreMiD/Presences/issues/new?template=service_request.md)!
 {% endhint %}
 
 | Video | Musik | Anime |
