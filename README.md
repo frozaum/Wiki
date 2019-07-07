@@ -1,4 +1,4 @@
-# Domov
+# Home
 
 ## Stôl kontentu
 
