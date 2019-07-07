@@ -1,7 +1,7 @@
 # Services
 
 {% hint style="info" %}
-Do you want to request support for other services? Open up a [trouble](https://github.com/Timeraa/PreMiD/issues/new?template=service_request.md)!
+Do you want to request support for other services? Open up a [issue](https://github.com/PreMiD/Presences/issues/new?template=service_request.md)!
 {% endhint %}
 
 | Video | Music | Anime |
