@@ -8,7 +8,7 @@ Thanks for using our service!
 ### Contribute as a translator
 
 Do you want to see your favourite language in PreMiD? It is easier than it seems:  
-Just click [this link](https://poeditor.com/join/project/Zzl1oOQV5g) and choose you language\(s\) you want to translate.
+Just click [this link](https://www.transifex.com/PreMiD/public/) and choose you language\(s\) you want to translate.
 
 ### Contribute as a donator
 
