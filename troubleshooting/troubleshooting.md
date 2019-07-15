@@ -13,9 +13,9 @@ Really important. Discord RPC won't work if you run Discord as an administrator.
 
 ### Check if you have antivirus or firewall running on your computer
 
-Sometimes antiviruses and firewalls are blocking applications that are crating/hosting servers or just connecting to the internet. We're using the local server to receive and pass data between our app and extension, so if you will block app's ability to pass data you probably won't be able to use PreMiD.
+Sometimes **antiviruses** and **firewalls** are **blocking applications** that are creating/hosting servers or just connecting to the internet. We're using the **local server** to **receive** and **pass** data between our app and extension, so if you will **block** app's ability to pass data you probably **won't** be able to use **PreMi**D.
 
-You can Google more about antivirus and firewall disabling if you want to fix your problem.
+You can **Google** more about antivirus and firewall disabling if you want to **fix** your problem.
 
 ### Make sure you've installed the latest version of PreMiD
 
