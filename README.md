@@ -1,18 +1,18 @@
-# Home
+# Acasă
 
-## Table of contents
+## Cuprins
 
-* About
-  * [What's RPC?](about/whats-rpc.md)
-  * [What's PreMiD?](about/whats-premid/)
+* Despre
+  * [Ce este RPC?](about/whats-rpc.md)
+  * [Ce este PreMiD?](about/whats-premid/)
     * [Example pictures](about/whats-premid/example-pictures.md)
-* Installation
-  * [Extension](installation/extension.md)
-  * [Application](installation/application.md)
-* [Contributing](contributing/contributing/)
-* [Troubleshooting](troubleshooting/troubleshooting.md)
-* Support
-  * [Operating systems](support/operating-systems/)
-    * [Additional Browsers](support/operating-systems/additional-browsers.md)
-  * [Services](support/services.md)
+* Instalare
+  * [Extensie](installation/extension.md)
+  * [Aplicație](installation/application.md)
+* [Contribuie](contributing/contributing/)
+* [Depanare](troubleshooting/troubleshooting.md)
+* Suport
+  * [Sisteme de operare](support/operating-systems/)
+    * [Browsere Adiționale](support/operating-systems/additional-browsers.md)
+  * [Servicii](support/services.md)
 

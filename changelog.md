@@ -1,4 +1,4 @@
-# Changelog
+# Schimbări
 
 ## 1.2.0.1-pre · 21-January-2019
 

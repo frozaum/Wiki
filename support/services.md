@@ -1,4 +1,4 @@
-# Services
+# Servicii
 
 {% hint style="info" %}
 Do you want to request support for other services? Open up a [issue](https://github.com/PreMiD/Presences/issues/new?template=service_request.md)!

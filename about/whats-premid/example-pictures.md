@@ -1,13 +1,12 @@
-# Example pictures
+# Poze de exemplu
 
-#### Examples
+#### Exemple
 
-This is what you listen on YouTube:
+Asta este ceea ce asculți pe YouTube:
 
 ![YouTube](../../.gitbook/assets/yt_example.PNG)
 
-  
-And this is what happens on your profile when PreMiD is running and able to get information from your browser: 
+Iar asta se întâmplă pe profilul tău când PreMiD funcționează și poate să ia informația de la browser:
 
 ![Discord RPC](../../.gitbook/assets/discord_rpc_example2.PNG)
 

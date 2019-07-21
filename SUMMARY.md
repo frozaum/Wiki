@@ -1,32 +1,32 @@
 # Table of contents
 
-* [Home](README.md)
-* [Features](features.md)
-* [Changelog](changelog.md)
+* [Acasă](README.md)
+* [Caracteristici](features.md)
+* [Schimbări](changelog.md)
 
-## About
+## Despre <a id="about"></a>
 
-* [What's RPC?](about/whats-rpc.md)
-* [What's PreMiD?](about/whats-premid/README.md)
-  * [Example pictures](about/whats-premid/example-pictures.md)
+* [Ce este RPC?](about/whats-rpc.md)
+* [Ce este PreMiD?](about/whats-premid/README.md)
+  * [Poze de exemplu](about/whats-premid/example-pictures.md)
 
-## Installation
+## Instalare <a id="installation"></a>
 
-* [Extension](installation/extension.md)
-* [Application](installation/application.md)
+* [Extensie](installation/extension.md)
+* [Aplicație](installation/application.md)
 
-## Contributing
+## Contribuie <a id="contributing"></a>
 
-* [Contributing](contributing/contributing/README.md)
-  * [Localization](contributing/contributing/localization.md)
+* [Contribuie](contributing/contributing/README.md)
+  * [Localizare](contributing/contributing/localization.md)
 
-## Troubleshooting
+## Depanare <a id="troubleshooting"></a>
 
-* [Troubleshooting](troubleshooting/troubleshooting.md)
+* [Depanare](troubleshooting/troubleshooting.md)
 
-## Support
+## Suport <a id="support"></a>
 
-* [Operating systems](support/operating-systems/README.md)
-  * [Additional Browsers](support/operating-systems/additional-browsers.md)
-* [Services](support/services.md)
+* [Sisteme de operare](support/operating-systems/README.md)
+  * [Browsere Adiționale](support/operating-systems/additional-browsers.md)
+* [Servicii](support/services.md)
 

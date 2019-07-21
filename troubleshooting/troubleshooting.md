@@ -1,4 +1,4 @@
-# Troubleshooting
+# Depanare
 
 ## **First of all**
 

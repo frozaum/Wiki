@@ -1,10 +1,10 @@
-# Extension
+# Extensie
 
 {% hint style="warning" %}
  You have to install the extenstion **and** the application to get it working correctly!
 {% endhint %}
 
-### Extension
+### Extensie
 
 Installation of extension is the easiest part! So, just click on the your browser's name and follow the introductions.
 

@@ -1,6 +1,6 @@
-# Additional Browsers
+# Browsere Adiționale
 
-| Operating Systems | Opera | Chromium-based |
+| Sisteme de operare | Opera | Bazat pe Chromium |
 | :---: | :---: | :---: |
 | Windows | ✓ | ✓ |
 | Linux | ✓ | ✓ |

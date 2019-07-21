@@ -1,12 +1,12 @@
-# Localization
+# Localizare
 
 We are partnered with POEditor, so all translations will be made in it.
 
-## Supported languages
+## Limbi suportate
 
-These languages have already been added in the application/extension, but may need some improvements.
+Aceste limbi au fost deja adăugate în aplicație/extensie, dar unele s-ar putea să aibă nevoie de îmbunătățiri.
 
-| Language | Percentage |
+| Limbă | Procentaj |
 | :---: | :---: |
 | Arabic | ![error](https://api.premid.app/langStatus/ar) |
 | Bosnian | ![error](https://api.premid.app/langStatus/bs) |
@@ -36,9 +36,9 @@ These languages have already been added in the application/extension, but may ne
 | Ukrainian | ![error](https://api.premid.app/langStatus/uk) |
 | Vietnamese | ![error](https://api.premid.app/langStatus/vi) |
 
-## How to start?
+## Cum să începi?
 
-1. Join our [Discord server](https://discord.premid.app).
+1. Alătură-te [serverului nostru de Discord](https://discord.premid.app).
 2. Go to our [contributing page](./).
 3. Click on the link given and register a new account.
 4. Mention a PoEditor administrator in our Discord server.
