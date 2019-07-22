@@ -12,7 +12,7 @@
 
 ## التثبيت
 
-* [إضافة المتصفح](altthbyt/extension.md)
+* [إضافة الملحق](altthbyt/extension.md)
 * [التطبيق](altthbyt/application.md)
 
 ## المساهمة
