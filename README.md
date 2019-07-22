@@ -9,7 +9,7 @@
 * Installation
   * [Extension](installation/extension.md)
   * [Application](installation/application.md)
-* [Contributing](contributing/contributing.md)
+* [Contributing](contributing/contributing/)
 * [Troubleshooting](troubleshooting/troubleshooting.md)
 * Support
   * [Operating systems](support/operating-systems/)
