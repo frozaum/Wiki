@@ -1,10 +1,10 @@
 # Servicii
 
 {% hint style="info" %}
-Do you want to request support for other services? Open up a [issue](https://github.com/PreMiD/Presences/issues/new?template=service_request.md)!
+Dorești suport pentru alte servicii? Deschide o [problemă](https://github.com/PreMiD/Presences/issues/new?template=service_request.md)!
 {% endhint %}
 
-| Video | Music | Anime |
+| Videoclipuri | Muzică | Anime |
 | :--- | :--- | :--- |
 | YouTube | YouTube Music | Crunchyroll |
 | Netflix | SoundCloud | Anime4You |
@@ -12,6 +12,6 @@ Do you want to request support for other services? Open up a [issue](https://git
 | Rabb.it |  |  |
 
 {% hint style="info" %}
-More available in our presence store soon releasing for free!
+Mai multe disponibile gratuit, în curând, pe magazinul de prezențe!
 {% endhint %}
 

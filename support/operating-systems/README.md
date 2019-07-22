@@ -1,8 +1,10 @@
 # Sisteme de operare
 
-| Operating Systems | App | Chrome | Firefox |
+| Sisteme de operare | Aplicație | Chrome | Firefox |
 | :---: | :---: | :---: | :---: |
 | Windows | ✓ | ✓ | Beta |
-| Linux | Self-build | ✓ | Beta |
+| Linux | Creată de tine | ✓ | Beta |
 | Mac OS | ✓ | ✓ | Beta |
+
+
 

@@ -1,6 +1,6 @@
 # Localizare
 
-We are partnered with POEditor, so all translations will be made in it.
+Avem parteneriat cu Transifex, așa că toate traducerile vor fi făcute acolo.
 
 ## Limbi suportate
 
@@ -39,8 +39,8 @@ Aceste limbi au fost deja adăugate în aplicație/extensie, dar unele s-ar pute
 ## Cum să începi?
 
 1. Alătură-te [serverului nostru de Discord](https://discord.premid.app).
-2. Go to our [contributing page](./).
-3. Click on the link given and register a new account.
-4. Mention a PoEditor administrator in our Discord server.
-5. All translation instructions will be sent to you in near future.
+2. Du-te la pagina noastră de [contribuție](./) .
+3. Apasă pe link-ul primit și creează-ți un cont nou.
+4. Anunță un admin Transifex pe serverul nostru de Discord.
+5. Toate instrucțiunile pentru a traduce iți vor fi transmise în viitorul apropriat.
 

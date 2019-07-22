@@ -25,13 +25,13 @@ OwO Ești pe cale să fii un [Patreon](https://www.patreon.com/Timeraa). OwO
 
 ### Contribute ca și contributor
 
-Now it's your chance to be a part of [PreMiD](https://premid.app/)! You can add your own presences or even code other things.  
-Just code something and open a pull request on [GitHub](https://github.com/PreMiD/PreMiD).
+Acum este șansa ta să faci parte din echipa [PreMiD](https://premid.app/)! Poți adăuga prezențele tale proprii sau poți programa alte chestii.  
+Programează și deschide un "pull request" pe [GitHub](https://github.com/PreMiD/PreMiD).
 
 ### Contribute ca moderator
 
-The applications are currently closed but we'll search for more if we get more users.  
-Last date we accepted moderators into our team: 12/24/2018"
+Aplicațiile sunt închise momentan, dar vom mai căuta dacă vom avea mai mulți utilizatori.  
+Ultima dată când am acceptat moderatori în echipa noastra: 12/24/2018
 
 ### ~~Contribute ca administrator~~
 

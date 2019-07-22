@@ -1,90 +1,90 @@
 # Depanare
 
-## **First of all**
+## **Prima dată**
 
-Make sure you have the [extension](../installation/extension.md) **and** the [application](../installation/application.md) installed!  
-You can also try different steps. You don't have to try these in the order we put them here.
+Verifică dacă ai [extensia](../installation/extension.md) **și** [aplicația](../installation/application.md) instalată!  
+Poți încerca și alți pași. Nu trebuie să încerci neapărat pașii în ordinea afișată.
 
-## Discord won't show the presence
+## Discord nu afișează prezența
 
-### Be sure Discord is running NOT as administrator
+### Fii sigur că Discord nu rulează ca administrator
 
-Really important. Discord RPC won't work if you run Discord as an administrator.
+Foarte important. Discord RPC nu va funcționa dacă rulezi Discord ca administrator.
 
-### Check if you have antivirus or firewall running on your computer
+### Verifică dacă ai un antivirus sau firewall care rulează pe calculatorul tău
 
-Sometimes **antiviruses** and **firewalls** are **blocking applications** that are creating/hosting servers or just connecting to the internet. We're using the **local server** to **receive** and **pass** data between our app and extension, so if you will **block** app's ability to pass data you probably **won't** be able to use **PreMi**D.
+Uneori **antivirușii** și **firewall-urile** **blochează aplicațiile** care creează/hostează servere sau cele care se conectează la internet. Noi folosim **server-ul local** pentru **a primi** și **trimite** date între aplicația noastră și extensie, deci dacă tu **blochezi** abilitatea aplicației de a trimite date, **nu poți** folosi **PreMiD**.
 
-You can **Google** more about antivirus and firewall disabling if you want to **fix** your problem.
+Poți căuta pe **Google** mai multe despre dezactivarea antivirusului și a firewall-ului dacă dorești să-ți **rezolvi** problema.
 
-### Make sure you've installed the latest version of PreMiD
+### Verifică dacă ai instalat cea mai recentă versiune de PreMiD
 
-You can check that by right-clicking on **'Check for updates'** the PreMiD icon in your taskbar.  
-Otherwise the app will let you know when a new update is available.  
-And you do not have to worry about the extension because it updates itself automatically.
+Poți verifica asta apasând click dreapta pe iconița PreMiD din taskbar, apoi click pe '**Check for updates**'.  
+Altfel, aplicația te va anunța când este o actualizare nouă posibilă.  
+Iar tu nu trebuie să-ți faci griji pentru extensie pentru că se actualizează singură, automat.
 
 {% hint style="info" %}
-Dev versions and self-injected versions won't update automatically
+Versiunile dev și cele self-injected nu se vor actualiza automat.
 {% endhint %}
 
 ![Windows taskbar](../.gitbook/assets/checkforupdates.png)
 
-### Make sure that you've enabled Discord Rich Presence in settings
+### Fii sigur că ai activat Discord Rich Presence din setări
 
 ![Discord Game Activity](../.gitbook/assets/gameactivity_edited.png)
 
-### Reload the page
+### Reîncarcă pagina
 
-You can press **Strg+R**/**F5** or **CMD+R** on your keyboard too instead of searching for the refresh button.
+Poți apăsa **Strg+R**/**F5** sau **CMD+R** pe tastatură în loc să cauți butonul de refresh.
 
-### Restart your browser
+### Repornește browser-ul
 
-**Alt+F4** does a good job too. \(You have to start your browser again obviously\)
+**Alt+F4** face o treabă bună. \(Evident, trebuie să-ți pornești browser-ul din nou\).
 
-### Disable your addons
+### Dezactivează-ți extensiile
 
-Disable all your addons and see if it works again.  
-If yes, try to enable your addons step-by-step and tell us which addon broke PreMiD.
+Dezactivează-ți toate extensiile și vezi dacă merge.  
+Dacă da, încearcă să activezi extensiile una câte una și spune-ne care a încurcat PreMiD. 
 
-### Restart PreMiD \(App\)
+### Repornește PreMiD \(Aplicația\)
 
 ![Windows taskbar](../.gitbook/assets/exit.png)
 
-You have to restart PreMiD afterthought.
+Trebuie să repornești PreMiD.
 
-### Reload/restart Discord
+### Reîncarcă/Repornește Discord
 
-Press **Strg+R** or **CMD+R** on you keyboard or restart Discord manually.
+Apasă **Strg+R** sau **CMD+R** pe tastatură sau repornește Discord manual.
 
-### Restarting your computer
+### Reporneșteți calculatorul
 
-I hope you know how to restart a computer.
+Sper că știi cum să repornești un calculator.
 
-### Reinstalling PreMiD
+### Reinstalează PreMiD
 
-Sometimes there's something wrong with the files... Tutorials for installation can be found [here](../installation/application.md).
+Uneori sunt probleme cu fișierele... Poți găsi tutoriale pentru instalare [aici](../installation/application.md).
 
-### Manual removal
+### Dezinstalare manuală
 
 {% tabs %}
 {% tab title="Windows" %}
-1. 1. Go to `C:\Users\USER\AppData\Local` and delete the folder `premid`
-2. 1. Go to `C:\Users\USER\AppData\Roaming` and delete the folder`PreMiD`
+1. 1. Du-te la `C:\Users\USER\AppData\Local` și șterge folder-ul `premid`
+2. 1. Du-te la `C:\Users\USER\AppData\Roaming`și șterge folder-ul`PreMiD`
 {% endtab %}
 
 {% tab title="Mac OS" %}
-Go to `YOURDISK:/users/USER/~Library/Application Support` and delete the folder `PreMiD`
+`Du-te la YOURDISK:/users/USER/~Library/Application Support` și șterge folder-ul `PreMiD`
 {% endtab %}
 {% endtabs %}
 
-Ping a staff member on our [Discord server](https://discord.gg/WvfVZ8T) if none of these steps helped.
+Anunța un membru din Staff de pe [server-ul nostru de Discord](https://discord.gg/WvfVZ8T) dacă nici unul dintre pași nu te-a ajutat.
 
-## That hasn't solved my problem
+## Asta nu a rezolvat problema mea
 
-You can either:
+Poți să:
 
-* [Open a issue](https://github.com/PreMiD/PreMiD/issues/new/choose) on [GitHub](https://github.com/PreMiD/PreMiD)
-* Ask a staff member in [\#support](https://discord.gg/WvfVZ8T)
+* [Deschide o problemă](https://github.com/PreMiD/PreMiD/issues/new/choose) pe [GitHub](https://github.com/PreMiD/PreMiD)
+* Să intrebi un membru din staff în [\#support](https://discord.gg/WvfVZ8T)
 
   
 

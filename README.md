@@ -5,7 +5,7 @@
 * Despre
   * [Ce este RPC?](about/whats-rpc.md)
   * [Ce este PreMiD?](about/whats-premid/)
-    * [Example pictures](about/whats-premid/example-pictures.md)
+    * [Poze de exemplu](about/whats-premid/example-pictures.md)
 * Instalare
   * [Extensie](installation/extension.md)
   * [Aplicație](installation/application.md)
