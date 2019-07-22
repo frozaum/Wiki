@@ -2,26 +2,26 @@
 
 ### Contribute ca utilizator
 
-Just by using [PreMiD](https://premid.app/) and be here on our [Discord server](https://discord.gg/WvfVZ8T) is a great pleasure.  
-Thanks for using our service!
+Doar folosind [PreMiD](https://premid.app/) și facând parte din [server-ul nostru de Discord](https://discord.gg/WvfVZ8T) este o plăcere mare.  
+Mulțumim că folosești serviciul nostru!
 
 ### Contribute ca traducător
 
-Do you want to see your favourite language in PreMiD? It is easier than it seems:  
-Just click [this link](https://www.transifex.com/PreMiD/public/) and choose you language\(s\) you want to translate.
+Dorești să vezi limba ta preferată în PreMiD? E mai ușor decât pare:   
+Doar apasă click pe [acest link](https://www.transifex.com/PreMiD/public/) și alege în ce limbă/limbi dorești să traduci.
 
 ### Contribute ca donator
 
-Just type 'donate' and you're ready to go. ![:money\_with\_wings:](https://camo.githubusercontent.com/8c82232d72bdb736fd395fab7b9bf6d01b4a3cca/68747470733a2f2f6769746875622e6769746875626173736574732e636f6d2f696d616765732f69636f6e732f656d6f6a692f756e69636f64652f31663462382e706e67)  
-_Or you_ [_click here_](https://github.com/PreMiD/PreMiD) _and choose a different option._
+Doar tastează 'donează' și ești gata!  ![:money\_with\_wings:](https://camo.githubusercontent.com/8c82232d72bdb736fd395fab7b9bf6d01b4a3cca/68747470733a2f2f6769746875622e6769746875626173736574732e636f6d2f696d616765732f69636f6e732f656d6f6a692f756e69636f64652f31663462382e706e67)  
+_Sau_ [_apasă aici_ ](https://github.com/PreMiD/PreMiD)_și alege o altă metodă._
 
 ### Contribute ca Patreon
 
-OwO You're about to be a [Patreon](https://www.patreon.com/Timeraa). OwO
+OwO Ești pe cale să fii un [Patreon](https://www.patreon.com/Timeraa). OwO
 
 ### Contribute ca designer
 
-You are well known with Photoshop or similar programs? Maybe you are talent we are looking for. Just ping an Admin to start."
+Știi să lucrezi bine în Photoshop sau programe asemănătoare? Poate că ești un talent după care ne uităm. Doar trimite un mesaj unui Admin pentru a începe.
 
 ### Contribute ca și contributor
 
