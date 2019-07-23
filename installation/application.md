@@ -26,24 +26,24 @@ Nareszcie, gdy zainstalowałeś wszystko poprawnie, możesz zacząć używać Pr
 {% endtab %}
 
 {% tab title="Mac OS" %}
-1. Download the latest version of the [application](https://premid.app/downloads)
-2. Open the downloaded **.dmg** file
-3. Drag **PreMiD** Into your **Applications** Folder
-4. Open your Launchpad or press F4
-5. Open **PreMiD**
-6. Press **"Allow"** if a window pops up
-7. Install the [extension](extension.md) if you haven't already
+1. Pobierz najnowszą wersję [aplikacji](https://premid.app/downloads)
+2. Otwórz wcześniej pobrany plik **.dmg**
+3. Przenieś **PreMiD** do folderu **Aplikacje**
+4. Otwórz Launchpad lub kliknij F4
+5. Otwórz **PreMiD**
+6. Wciśnij **"Pozwól"** jeśli pojawi się okienko prywatności
+7. Zainstaluj [rozszerzenie](extension.md) jeśli jeszcze tego nie zrobiłeś
 {% endtab %}
 
 {% tab title="Linux" %}
 {% hint style="info" %}
-If you want to talk about the GNU/Linux support visit: [https://github.com/Timeraa/PreMiD/issues/21](https://github.com/Timeraa/PreMiD/issues/21)
+Jeśli chcesz porozmawiać o wsparciu GNU/Linux odwiedź: [https://github.com/Timeraa/PreMiD/issues/21](https://github.com/Timeraa/PreMiD/issues/21)
 {% endhint %}
 
-1. Clone the repository: `git clone https://github.com/Timeraa/PreMiD.git`
-2. Change the working directory: `cd PreMiD/src`
-3. Install dependencies and the application itself: `npm install`
-4. Now you can start the application: `npm start`
+1. Zklonuj repozytorium: `git clone https://github.com/Timeraa/PreMiD.git`
+2. Zmień aktywną scieżkę: `cd PreMiD/src`
+3. Zainstaluj aplikację i potrzebne biblioteki: `npm install`
+4. Uruchom aplikację: `npm start`
 {% endtab %}
 {% endtabs %}
 
