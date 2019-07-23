@@ -1,6 +1,6 @@
 # Localization
 
-We are partnered with POEditor, so all translations will be made in it.
+We are partnered with Transifex, so all translations will be made in it.
 
 ## Supported languages
 
@@ -41,6 +41,6 @@ These languages have already been added in the application/extension, but may ne
 1. Join our [Discord server](https://discord.premid.app).
 2. Go to our [contributing page](./).
 3. Click on the link given and register a new account.
-4. Mention a PoEditor administrator in our Discord server.
+4. Mention a developer in our Discord server.
 5. All translation instructions will be sent to you in near future.
 

@@ -7,8 +7,8 @@ Thanks for using our service!
 
 ### Contribute as a translator
 
-Do you want to see your favourite language in PreMiD? It is easier than it seems:  
-Just click [this link](https://www.transifex.com/PreMiD/public/) and choose you language\(s\) you want to translate.
+Do you want to see your favorite language in PreMiD? It is easier than it seems:  
+Just click [this link](https://www.transifex.com/PreMiD/public/) and choose what language\(s\) you want to add to PreMiD.
 
 ### Contribute as a donator
 
@@ -21,9 +21,9 @@ OwO You're about to be a [Patreon](https://www.patreon.com/Timeraa). OwO
 
 ### Contribute as a designer
 
-You are well known with Photoshop or similar programs? Maybe you are talent we are looking for. Just ping an Admin to start."
+You are well known with Photoshop or similar programs? Maybe you are talent we are looking for. Just ping an Admin to start.
 
-### Contribute as a contributor
+### Contribute as a coder
 
 Now it's your chance to be a part of [PreMiD](https://premid.app/)! You can add your own presences or even code other things.  
 Just code something and open a pull request on [GitHub](https://github.com/PreMiD/PreMiD).

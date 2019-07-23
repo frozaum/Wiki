@@ -1,17 +1,17 @@
 # Extension
 
 {% hint style="warning" %}
- You have to install the extenstion **and** the application to get it working correctly!
+ You have to install the extension **and** the application to get it working correctly!
 {% endhint %}
 
 ### Extension
 
-Installation of extension is the easiest part! So, just click on the your browser's name and follow the introductions.
+Installation of the extension is the easiest part! So, just click on the your browser's name and follow the instructions.
 
 {% tabs %}
 {% tab title="Firefox" %}
 {% hint style="info" %}
-Firefox removed our Extension from the addon store. Don't worry we will try to revive it from the dead as we plan to upload it to our own servers in the next update! For now you can either wait or follow the instructions below.
+Firefox removed our Extension from the addon store. Don't worry, we will try to revive it from the dead as we plan to upload it to our own servers in the next update! For now you can either wait or follow the instructions below.
 {% endhint %}
 
 
@@ -19,7 +19,7 @@ Firefox removed our Extension from the addon store. Don't worry we will try to r
 1. Go to the [releases tab](https://github.com/PreMiD/PreMiD/releases)
 2. Download [premid-1.3.1.2-fx.xpi](https://github.com/PreMiD/PreMiD/releases)
 3. Got to `about:addons`
-4. Click on the little gear symbol on the upper right hand side
+4. Click on the little gear symbol on the upper right corner
 5. Choose **"Install add-on from file"**
 6. Select the file you downloaded recently
 7. Accept the installation by clicking on **"Add"**

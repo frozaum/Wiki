@@ -2,7 +2,7 @@
 
 #### Examples
 
-This is what you listen on YouTube:
+This is what you listen to on YouTube:
 
 ![YouTube](../../.gitbook/assets/yt_example.PNG)
 
