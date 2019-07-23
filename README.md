@@ -7,12 +7,12 @@
   * [Co to PreMiD?](about/whats-premid/)
   * * [Przykładowe zrzuty ekranu](about/whats-premid/example-pictures.md)
 * Instalacja
-  * [Extension](installation/extension.md)
-  * [Application](installation/application.md)
-* [Contributing](contributing/contributing/)
-* [Troubleshooting](troubleshooting/troubleshooting.md)
+  * [Rozszerzenie](installation/extension.md)
+  * [Aplikacja](installation/application.md)
+* [Przyczyń się](contributing/contributing/)
+* [Rozwiązywanie problemów](troubleshooting/troubleshooting.md)
 * Wsparcie
-  * [Operating systems](support/operating-systems/)
-    * [Additional Browsers](support/operating-systems/additional-browsers.md)
-  * [Services](support/services.md)
+  * [Systemy Operacyjne](support/operating-systems/)
+    * [Dodatkowe przeglądarki](support/operating-systems/additional-browsers.md)
+  * [Serwisy](support/services.md)
 
