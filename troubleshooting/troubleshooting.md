@@ -1,90 +1,90 @@
-# Troubleshooting
+# Rozwiązywanie problemów
 
-## **First of all**
+## Najpierw...
 
-Make sure you have the [extension](../installation/extension.md) **and** the [application](../installation/application.md) installed!  
-You can also try different steps. You don't have to try these in the order we put them here.
+Upewnij się, że zainstalowałeś [aplikację](../installation/application.md) **oraz** [rozszerzenie](../installation/extension.md).  
+Jeśli to nie zadziałało, podążaj za krokami poniżej. Nie musisz robić ich po kolei.
 
-## Discord won't show the presence
+## Discord nie pokazuje statusu
 
-### Be sure Discord is running NOT as administrator
+### Upewnij się, że Discord nie jest uruchomiony w trybie administratora
 
-Really important. Discord RPC won't work if you run Discord as an administrator.
+Bardzo ważne. RPC nie działa w trybie administratora.
 
-### Check if you have antivirus or firewall running on your computer
+### Sprawdź czy masz włączonego antywirusa lub firewalla na swoim komputerze
 
-Sometimes **antiviruses** and **firewalls** are **blocking applications** that are creating/hosting servers or just connecting to the internet. We're using the **local server** to **receive** and **pass** data between our app and extension, so if you will **block** app's ability to pass data you probably **won't** be able to use **PreMi**D.
+Czasami **antywirusy** i **firewalle** **blokują aplikację** które tworzą/hostują serwery lub tylko łączą się z internetem. Używamy **lokalnego serwera** do **przesyłania danych** pomiędzy aplikacją a rozszerzeniem, więc jeśli zablokujesz możliwość aplikacji do przesyłania danych, **nie będziesz mógł używać PreMiD**.
 
-You can **Google** more about antivirus and firewall disabling if you want to **fix** your problem.
+Możesz sprawdzić więcej informacji o firewallach i wyłaczaniu ich aby **naprawić** twój problem na **Google**.
 
-### Make sure you've installed the latest version of PreMiD
+### Upewnij się, że masz zainstalowaną ostatnią wersję PreMiD
 
-You can check that by right-clicking on **'Check for updates'** the PreMiD icon in your taskbar.  
-Otherwise the app will let you know when a new update is available.  
-And you do not have to worry about the extension because it updates itself automatically.
+Możesz to sprawdzić klikając w **'Check for updates'** na pasku zadań w ikonce PreMiD.  
+Aplikacja powinna też dać ci znać o aktualizacji przez powiadomienia.  
+Rozszerzenie aktualizuje się samo.
 
 {% hint style="info" %}
-Dev versions and self-injected versions won't update automatically
+Wersje deweloperskie i instalowane samemu nie aktualizują się.
 {% endhint %}
 
-![Windows taskbar](../.gitbook/assets/checkforupdates.png)
+![Pasek Zada&#x144; Windows](../.gitbook/assets/checkforupdates.png)
 
-### Make sure that you've enabled Discord Rich Presence in settings
+### Pamiętaj, żeby włączyć RPC w ustawieniach Discorda
 
 ![Discord Game Activity](../.gitbook/assets/gameactivity_edited.png)
 
-### Reload the page
+### Odśwież stronę
 
-You can press **Strg+R**/**F5** or **CMD+R** on your keyboard too instead of searching for the refresh button.
+Możesz wciśnąć **Shift/F5** or **CMD+R** na twojej klawiaturze zamiast szukać przycisku odświeżenia.
 
-### Restart your browser
+### Zrestartuj przeglądarkę
 
-**Alt+F4** does a good job too. \(You have to start your browser again obviously\)
+**Alt+F4** też działa dobrze. Pamiętaj, żeby po tym uruchomić przeglądarkę.
 
-### Disable your addons
+### Powyłączaj inne rozszerzenia
 
-Disable all your addons and see if it works again.  
-If yes, try to enable your addons step-by-step and tell us which addon broke PreMiD.
+Wyłącz wszystkie rozszerzenia i zobacz czy PreMiD znów działa.  
+Jeśli tak, włączaj wszystkie rozszerzenia po kolei i powiedz nam, które rozszerzenie psuje PreMiD.
 
-### Restart PreMiD \(App\)
+### Zrestartuj aplikacje
 
-![Windows taskbar](../.gitbook/assets/exit.png)
+![Pasek Zada&#x144; Windows](../.gitbook/assets/exit.png)
 
-You have to restart PreMiD afterthought.
+Po tym uruchom aplikację z powrotem.
 
-### Reload/restart Discord
+### Odśwież/Zrestartuj Discorda
 
-Press **Strg+R** or **CMD+R** on you keyboard or restart Discord manually.
+Wciśnij **Ctrl+R** or **CMD+R** na twojej klawiaturze aby odświeżyć Discord lub wyłącz i włącz aplikację.
 
-### Restarting your computer
+### Zrestartuj swój komputer
 
-I hope you know how to restart a computer.
+Mam nadzieję, że wiesz jak zrestartować komputer.
 
-### Reinstalling PreMiD
+### Zainstaluj PreMiD ponownie
 
-Sometimes there's something wrong with the files... Tutorials for installation can be found [here](../installation/application.md).
+Czasem podczas instalacji pliki mogą się zepsuć. Aby zainstalować PreMiD ponownie, podążaj za krokami [tutaj](../installation/application.md).
 
-### Manual removal
+### Manualne usunięcie
 
 {% tabs %}
 {% tab title="Windows" %}
-1. 1. Go to `C:\Users\USER\AppData\Local` and delete the folder `premid`
-2. 1. Go to `C:\Users\USER\AppData\Roaming` and delete the folder`PreMiD`
+1. 1. Idź do `C:\Users\USER\AppData\Local` i usuń folder `premid`
+2. 1. Idź do `C:\Users\USER\AppData\Roaming` i usuń folder`PreMiD`
 {% endtab %}
 
 {% tab title="Mac OS" %}
-Go to `YOURDISK:/users/USER/~Library/Application Support` and delete the folder `PreMiD`
+Idź do `YOURDISK:/users/USER/~Library/Application Support` i usuń folder`PreMiD`
 {% endtab %}
 {% endtabs %}
 
-Ping a staff member on our [Discord server](https://discord.gg/WvfVZ8T) if none of these steps helped.
+Jeśli nic z tych rzeczy nie pomogło, oznacz developera na [naszym serwerze](https://discordapp.com/invite/WvfVZ8T) Discord.
 
-## That hasn't solved my problem
+## To nie rozwiązało mojego problemu.
 
-You can either:
+Możesz:
 
-* [Open a issue](https://github.com/PreMiD/PreMiD/issues/new/choose) on [GitHub](https://github.com/PreMiD/PreMiD)
-* Ask a staff member in [\#support](https://discord.gg/WvfVZ8T)
+* [Otworzyć issue](https://github.com/PreMiD/PreMiD/issues/new/choose) na [GitHub](https://github.com/PreMiD/PreMiD)
+* Zapytaj developera na [\#support](https://discord.gg/WvfVZ8T)
 
   
 

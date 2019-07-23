@@ -1,32 +1,32 @@
 # Table of contents
 
-* [Home](README.md)
-* [Features](features.md)
-* [Changelog](changelog.md)
+* [Strona Główna](README.md)
+* [Funkcje](features.md)
+* [Zmiany](changelog.md)
 
-## About
+## O naszej aplikacji <a id="about"></a>
 
-* [What's RPC?](about/whats-rpc.md)
-* [What's PreMiD?](about/whats-premid/README.md)
-  * [Example pictures](about/whats-premid/example-pictures.md)
+* [Co to RPC?](about/whats-rpc.md)
+* [Co to PreMiD?](about/whats-premid/README.md)
+  * [Przykładowe zrzuty ekranu](about/whats-premid/example-pictures.md)
 
-## Installation
+## Instalacja <a id="installation"></a>
 
-* [Extension](installation/extension.md)
-* [Application](installation/application.md)
+* [Rozszerzenie](installation/extension.md)
+* [Aplikacja](installation/application.md)
 
-## Contributing
+## Przyczyń się <a id="contributing"></a>
 
-* [Contributing](contributing/contributing/README.md)
-  * [Localization](contributing/contributing/localization.md)
+* [Przyczyń się](contributing/contributing/README.md)
+  * [Tłumaczenie](contributing/contributing/localization.md)
 
-## Troubleshooting
+## Rozwiązywanie problemów <a id="troubleshooting"></a>
 
-* [Troubleshooting](troubleshooting/troubleshooting.md)
+* [Rozwiązywanie problemów](troubleshooting/troubleshooting.md)
 
-## Support
+## Wsparcie <a id="support"></a>
 
-* [Operating systems](support/operating-systems/README.md)
-  * [Additional Browsers](support/operating-systems/additional-browsers.md)
-* [Services](support/services.md)
+* [Systemy Operacyjne](support/operating-systems/README.md)
+  * [Dodatkowe Przeglądarki](support/operating-systems/additional-browsers.md)
+* [Serwisy](support/services.md)
 

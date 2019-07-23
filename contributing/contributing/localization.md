@@ -1,10 +1,8 @@
-# Localization
+# Tłumaczenie
 
-We are partnered with POEditor, so all translations will be made in it.
+## Wspierane Języki
 
-## Supported languages
-
-These languages have already been added in the application/extension, but may need some improvements.
+Te języki zostały już dodane do aplikacji/rozszerzenia, ale mogą potrzebować poprawek.
 
 | Language | Percentage |
 | :---: | :---: |
@@ -36,11 +34,9 @@ These languages have already been added in the application/extension, but may ne
 | Ukrainian | ![error](https://api.premid.app/langStatus/uk) |
 | Vietnamese | ![error](https://api.premid.app/langStatus/vi) |
 
-## How to start?
+## Jak rozpocząć?
 
-1. Join our [Discord server](https://discord.premid.app).
-2. Go to our [contributing page](./).
-3. Click on the link given and register a new account.
-4. Mention a PoEditor administrator in our Discord server.
-5. All translation instructions will be sent to you in near future.
+1. Dołącz do naszego [serwera Discord](https://discord.premid.app/)
+2. Oznacz developera.
+3. Podążaj za jego instrukcjami.
 
