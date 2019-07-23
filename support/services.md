@@ -12,6 +12,6 @@ Do you want to request support for other services? Open up a [issue](https://git
 | Rabb.it |  |  |
 
 {% hint style="info" %}
-More available in our presence store soon releasing for free!
+More presences available in our presence store soon releasing for free!
 {% endhint %}
 

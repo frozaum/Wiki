@@ -11,6 +11,12 @@ You can also try different steps. You don't have to try these in the order we pu
 
 Really important. Discord RPC won't work if you run Discord as an administrator.
 
+### Check if you have antivirus or firewall running on your computer
+
+Sometimes **antiviruses** and **firewalls** are **blocking applications** that are creating/hosting servers or just connecting to the internet. We're using the **local server** to **receive** and **pass** data between our app and extension, so if you will **block** app's ability to pass data you probably **won't** be able to use **PreMiD**.
+
+You can **Google** more about antivirus and firewall disabling if you want to **fix** your problem.
+
 ### Make sure you've installed the latest version of PreMiD
 
 You can check that by right-clicking on **'Check for updates'** the PreMiD icon in your taskbar.  
@@ -44,11 +50,11 @@ If yes, try to enable your addons step-by-step and tell us which addon broke Pre
 
 ![Windows taskbar](../.gitbook/assets/exit.png)
 
-You have to restart PreMiD afterthought.
+You have to restart PreMiD afterwards.
 
 ### Reload/restart Discord
 
-Press **Strg+R** or **CMD+R** on you keyboard or restart Discord manually.
+Press **Strg+R** or **CMD+R** on your keyboard or restart Discord manually.
 
 ### Restarting your computer
 
@@ -56,7 +62,7 @@ I hope you know how to restart a computer.
 
 ### Reinstalling PreMiD
 
-Sometimes there's something wrong with the files... Tutorials for installation can be found [here](../installation/application.md).
+Sometimes there's something wrong with the files... Tutorials for the installation can be found [here](../installation/application.md).
 
 ### Manual removal
 
