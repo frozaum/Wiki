@@ -1,6 +1,6 @@
 # متصفحات أخرى
 
-| Operating System | Opera | Chromium-based |
+| نظام التشغيل | Opera | Chromium-based |
 | :---: | :---: | :---: |
 | Windows | ✓ | ✓ |
 | Linux | ✓ | ✓ |
