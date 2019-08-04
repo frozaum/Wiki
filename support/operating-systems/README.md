@@ -1,8 +1,8 @@
 # أنظمة التشغيل
 
-| Operating System | Application | Chrome | Firefox |
+| نظام التشغيل | التطبيق| Chrome | Firefox |
 | :---: | :---: | :---: | :---: |
-| Windows | ✓ | ✓ | Beta |
-| Linux | Self-build | ✓ | Beta |
-| Mac OS | ✓ | ✓ | Beta |
+| Windows | ✓ | ✓ | بيتا|
+| Linux | بناء الذاتي | ✓ | بيتا|
+| Mac OS | ✓ | ✓ | بيتا|
 
