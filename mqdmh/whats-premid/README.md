@@ -1,12 +1,12 @@
 # PreMiD ما هو
 
-#### What is PreMiD?
+#### ما هو PreMiD؟
 
 {% page-ref page="../../features.md" %}
 
-#### How does PreMiD work?
+#### كيف يعمل PreMiD؟
 
-Once you installed both extension and the app, they are always contacting with each other and are in touch at any time. For example, when you start watching/listening something on YouTube, YouTube Music, Netflix or other [supported services](../../aldam/services.md), the browser extension sends the information of video/song to the PreMiD Desktop client and PreMiD processes it, after that PreMiD sends the information with the correct way to Discord and Discord automatically sets your status. Well, all of these happens in 0.1 second so you don't have to worry about it.
+بمجرد تثبيت كل من الإضافة والتطبيق ، فإنهم يتصلون دائمًا مع بعضهم البعض وهم على اتصال في أي وقت. على سبيل المثال ، عند بدء مشاهدة / الاستماع إلى شيء ما على YouTube أو YouTube Music أو Netflix أو [خدمات معتمدة] أخرى (../../ aldam / services.md) ، يرسل امتداد المستعرض معلومات الفيديو / الأغنية إلى PreMiD يقوم عميل سطح المكتب و PreMiD بمعالجته ، بعد ذلك يقوم PreMiD بإرسال المعلومات بالطريقة الصحيحة إلى Discord و Discord تلقائيًا بتعيين حالتك. حسنًا ، كل هذا يحدث في 0.1 ثانية ، لذا لا داعي للقلق بشأنه.
 
 {% page-ref page="../../features.md" %}
 
