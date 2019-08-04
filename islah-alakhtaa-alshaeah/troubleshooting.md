@@ -1,84 +1,84 @@
 # إصلاح الأخطاء الشائعة
 
-## **First of all**
+## **في البداية**
 
-Make sure you have the [extension](../altthbyt/extension.md) **and** the [application](../altthbyt/application.md) installed!  
-You can also try different steps. You don't have to try these in the order we put them here.
+تأكد من أن لديك [الملحق](../altthbyt/extension.md) **و**  [التطبيق](../altthbyt/application.md) مثبتين
+Yيمكنك أيضًا تجربة خطوات مختلفة. ليس عليك تجربة هذه بالترتيب الذي وضعناه هنا.
 
-## Discord won't show the presence
+##  الديسكورد لن يظهر presence
 
-### Be sure Discord is running NOT as administrator
+### تأكد من عدم تشغيل الديسكورد كمسؤول
 
-Really important. Discord RPC won't work if you run Discord as an administrator.
+مهم للغاية. لن يعمل Discord RPC إذا قمت بتشغيل الديسكورد كمسؤول.
 
-### Make sure you've installed the latest version of PreMiD
+### تأكد من تثبيت أحدث إصدار من PreMiD
 
-You can check that by right-clicking on **'Check for updates'** the PreMiD icon in your taskbar.  
-Otherwise the app will let you know when a new update is available.  
-And you do not have to worry about the extension because it updates itself automatically.
+يمكنك التحقق من ذلك بالنقر بزر الماوس الأيمن فوق ** "Check For Updates" ** أيقونة PreMiD في شريط المهام.
+وإلا فإن التطبيق سوف يخبرك عند توفر تحديث جديد.
+ولا داعي للقلق بشأن الملحق لأنه يقوم بتحديث نفسه تلقائيًا.
 
 {% hint style="info" %}
-Dev versions and self-injected versions won't update automatically
+لن يتم تحديث إصدارات Dev والإصدارات ذاتية الضخ تلقائيًا
 {% endhint %}
 
 ![Windows Taskbar](https://github.com/PreMiD/PreMiD/raw/master/wiki/assets/CheckForUpdates.png)
 
-### Make sure that you've enabled Discord Rich Presence in settings
+### تأكد من تمكين Discord Rich Presence في الإعدادات
 
 ![Discord Game Activity](https://github.com/PreMiD/PreMiD/raw/master/wiki/assets/GameActivity.png)
 
-### Reload the page
+### أعد تحميل الصفحة
 
-You can press **Strg+R**/**F5** or **CMD+R** on your keyboard too instead of searching for the refresh button.
+يمكنك الضغط على ** Strg + R ** / ** F5 ** أو ** CMD + R ** على لوحة المفاتيح أيضًا بدلاً من البحث عن زر التحديث.
 
-### Restart your browser
+### أعد تشغيل المتصفح
 
-**Alt+F4** does a good job too. \(You have to start your browser again obviously\)
+** Alt + F4 ** يقوم بعمل جيد للغاية. \ (عليك أن تبدأ متصفحك مرة أخرى بوضوح \)
 
-### Disable your addons
+### تعطيل الإضافات الخاصة بك
 
-Disable all your addons and see if it works again.  
-If yes, try to enable your addons step-by-step and tell us which addon broke PreMiD.
+تعطيل جميع الإضافات الخاصة بك ومعرفة ما إذا كان يعمل مرة أخرى.
+إذا كانت الإجابة بنعم ، فحاول تمكين الإضافات الخاصة بك خطوة بخطوة وأخبرنا بالملحق الذي كسر PreMiD.
 
-### Restart PreMiD \(App\)
+### إعادة تشغيل PreMiD \ (التطبيق \)
 
 ![Windows Taskbar](https://github.com/PreMiD/PreMiD/raw/master/wiki/assets/Quit.png)
 
-You have to restart PreMiD afterthought.
+يجب عليك إعادة تشغيل PreMiD.
 
-### Reload/restart Discord
+### تحديث / إعادة تشغيل الديسكورد
 
-Press **Strg+R** or **CMD+R** on you keyboard or restart Discord manually.
+اضغط ** Strg + R ** أو ** CMD + R ** على لوحة المفاتيح أو أعد تشغيل الديسكورد يدويًا.
 
-### Restarting your computer
+### إعادة تشغيل جهاز الكمبيوتر الخاص بك
 
-I hope you know how to restart a computer.
+أتمنى أن تعرف كيفية إعادة تشغيل الكمبيوتر.
 
-### Reinstalling PreMiD
+### إعادة تثبيت PreMiD
 
-Sometimes there's something wrong with the files... Tutorials for installation can be found [here](../altthbyt/application.md).
+في بعض الأحيان ، يوجد خطأ في الملفات ... يمكن العثور على دروس للتثبيت [هنا](../altthbyt/application.md).
 
-### Manual removal
+### الإزالة اليدوية
 
 {% tabs %}
 {% tab title="Windows" %}
-1. Go to `C:\Users\USER\AppData\Local` and delete folder `premid`
-2. Go to `C:\Users\USER\AppData\Roaming` and delete folder `PreMiD`
+1. Go to `C:\Users\USER\AppData\Local` وحذف المجلد `premid`
+2. Go to `C:\Users\USER\AppData\Roaming` وحذف المجلد`PreMiD`
 {% endtab %}
 
 {% tab title="Mac OS" %}
-Go to `YOURDISK:/users/USER/~Library/Application Support` and delete folder `PreMiD`
+Go to `YOURDISK:/users/USER/~Library/Application Support` وحذف المجلد `PreMiD`
 {% endtab %}
 {% endtabs %}
 
-Ping a staff member on our [Discord server](https://discord.gg/WvfVZ8T) if none of these steps helped.
+منشن مشرف في  [سيرفر الديسكورد](https://discord.gg/WvfVZ8T) إذا لم يساعد أي من هذه الخطوات.
 
-## That hasn't solved my problem
+## هذا لم يحل مشكلتي
 
 You can either:
 
-* [Open a issue](https://github.com/PreMiD/PreMiD/issues/new/choose) on [GitHub](https://github.com/PreMiD/PreMiD)
-* Ask a staff member in [\#support](https://discord.gg/WvfVZ8T)
+* [افتح مشكلة](https://github.com/PreMiD/PreMiD/issues/new/choose) على [GitHub](https://github.com/PreMiD/PreMiD)
+* اسأل الدعم في [\#support](https://discord.gg/WvfVZ8T)
 
   
 
